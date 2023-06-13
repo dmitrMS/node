@@ -1,0 +1,12 @@
+{
+  "name": "first-servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csv.js",
+  "scripts": {
+    "run-server": "node json.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
