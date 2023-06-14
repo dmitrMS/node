@@ -5,6 +5,10 @@
   "main": "csv.js",
   "scripts": {
     "run-server": "node json.js",
+    "run-servers": "node csv.js",
+    "run-serverss": "node html.js",
+    "run-serversss": "node htmlFile.js",
+    "run-server4": "node routes.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
